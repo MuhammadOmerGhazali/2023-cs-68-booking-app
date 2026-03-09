@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Booking App"
+rootProject.name = "2023-cs-68"
 include(":app")
